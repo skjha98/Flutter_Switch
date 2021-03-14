@@ -24,5 +24,5 @@ For help getting started with Flutter, view
 samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
-![Off Switch](Images/Flutter Switch Off.JPG)
-![On Switch](Images/Flutter Switch On.JPG)
+![Off Switch](Images/Flutter%20Switch%20Off.JPG)
+![On Switch](/Images/Flutter%20Switch%20On.JPG)
